@@ -8,10 +8,36 @@
 # testNode
 Implementando Jasmine no JavaScript para fazer teste unitários
 
-´´´bash
-npm teste
-´´´
+```bash
+# Install the dependencies
+$ npm i jasmine -D
 
+# Initialize 
+$ npx  jasmine init
+
+# Run test
+$ npm test
+```
+
+
+<div align="center">
+  <img 
+    alt="Logica de programção por Nadi Duno"
+    src=".github/nadiDunoTestNode.png" 
+    width="100%"
+  >
+  <br />
+</div>
+
+<div align="center">
+  <img 
+    alt="Logica de programção por Nadi Duno"
+    src=".github/nadiDunoTestNode2.png" 
+    width="100%"
+  >
+  <br />
+</div>
 
 [@nadiduno](https://www.instagram.com/nadiduno.csv/)
-Mentoria do programa Google Developer Up - [@willgmbr](https://twitter.com/willgmbr)
+<br />
+[@willgmbr](https://twitter.com/willgmbr) - Mentor do programa Google Developer Up - 

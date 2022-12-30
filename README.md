@@ -22,7 +22,7 @@ $ npm test
 
 <div align="center">
   <img 
-    alt="Logica de programção por Nadi Duno"
+    alt="Test por Nadi Duno"
     src=".github/nadiDunoTestNode.png" 
     width="100%"
   >
@@ -31,8 +31,8 @@ $ npm test
 
 <div align="center">
   <img 
-    alt="Logica de programção por Nadi Duno"
-    src=".github/nadiDunoTestNode2.png" 
+    alt="Test por Nadi Duno"
+    src=".github/nadiDunoTestNode 2.png" 
     width="100%"
   >
   <br />
